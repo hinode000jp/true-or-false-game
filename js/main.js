@@ -8,7 +8,6 @@ const questions = [
     {question: 'アニメ「ドラえもん」の最初の映画は「のび太の恐竜」である。○か×か。', anser: 1},
     {question: '「ちびまる子ちゃん」の物語の舞台は東京である。○か×か。', anser: 0}
 ];
-
 onStart();
 
 function anser(a) {
